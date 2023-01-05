@@ -1,0 +1,3 @@
+const TAGS = {
+	SampleTag: 'SampleTag'
+}

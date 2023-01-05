@@ -1,0 +1,8 @@
+# node modules
+/node_modules
+
+# dist and output files
+/dist
+
+# private files
+.env
